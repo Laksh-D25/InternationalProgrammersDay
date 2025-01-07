@@ -15,12 +15,18 @@ Welcome to **CTRL+FIX**, a thrilling **coding and debugging challenge** organize
 
 ## 🔧 Challenge Overview
 - **Folder 1:** Debugging Round (3 Questions)  
-  - Focus on debugging specific sections of code.
-  - Deleting the entire code is not allowed and will not be our responsibility if you do so.
+  - Focus on debugging specific sections of code.  
+  - Deleting the entire code is not allowed and will not be our responsibility if you do so.  
+  - The problem statements are provided in folders named **problem(number)**, with debugging problems in **C**, **C++**, and **JAVA**.  
 
 - **Folder 2:** Coding and Problem-Solving Round (3 Questions)  
   - Use problem-solving algorithms to address the given problems.  
-  - The problem statements are provided in a file named **Problems.md**.
+  - The problem statements are provided in files named **problem(number).txt**.
+
+- **Points System:**  
+  - **Problem 1:** 10 Points  
+  - **Problem 2:** 20 Points  
+  - **Problem 3:** 30 Points  
 
 ---
 
@@ -29,7 +35,8 @@ Welcome to **CTRL+FIX**, a thrilling **coding and debugging challenge** organize
 2. **No Internet Access** will be provided. Online IDEs are strictly prohibited.  
 3. Use any **offline IDE** of your preference for coding.  
 4. Maintain the integrity of the code provided in the debugging round.  
-5. For any queries or issues, please contact the volunteers present at the venue.  
+5. Once you finish a problem, call a **volunteer** to validate your solution before proceeding to the next one.  
+6. For any queries or issues, please contact the volunteers present at the venue.
 
 ---
 
